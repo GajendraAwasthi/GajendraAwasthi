@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gajendraawasthi456@gmail.com**
 
-- ⚡ Fun fact **I dont Know Anything but i know Anything 😁😅**
+- ⚡ Fun fact **I dont Know Anything but i know Everything 🧿**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
