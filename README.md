@@ -1,4 +1,4 @@
-![logo](https://github.com/GajendraAwasthi/GajendraAwasthi/blob/main/Blue%20Futuristic%20Technology%20Presentation.gif)
+![logo](https://github.com/GajendraAwasthi/GajendraAwasthi/blob/main/gif/me.gif)
 <h1 align="center">Hi 👋, I'm Gajendra Awasthi</h1>
 <h3 align="center">A New learner from Nepal</h3>
 
