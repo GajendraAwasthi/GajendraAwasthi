@@ -21,6 +21,6 @@
 <h3>My Github Badges</h3>
 <a href="https://assets.holopin.io/hf2025levels/lvl0-human.webp" target="blank"><img align="center" src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Opensourcebadge" height="200" width="200" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajendraawasthi&show_icons=true&locale=en" alt="gajendraawasthi" /></p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GajendraAwasthi?cardType=level&preferLogin=true&Background=DDDDDD&Text=000000&Border=000000&Ring=2016FF)](https://git.io/awesome-stats-card)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajendraawasthi&" alt="gajendraawasthi" /></p>
