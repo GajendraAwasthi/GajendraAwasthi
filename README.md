@@ -35,8 +35,12 @@
 ### 🔥 GRAB-X-AI &nbsp; [![View Project](https://img.shields.io/badge/View%20Project-%23FF4D00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GajendraAwasthi/Grab-X-AI)
 > 🤖 Terminal-based AI Chatbot · Built in C · Powered by Gemini API
 
+### 🔥 BLOG SITE &nbsp; [![View Project](https://img.shields.io/badge/View%20Project-%23FF4D00?style=for-the-badge&logo=github&logoColor=white)](https://gajendraawasthi.vercel.app/)
+> ✍️ Personal Tech Blog Webapplication
+
 ### 🔥 EventGhar &nbsp; [![Coming soon](https://img.shields.io/badge/Coming%20Soon-%23FF4D00?style=for-the-badge&logo=github&logoColor=white)](#)
 > 🎈 Flask-Based Event Management Web Application  ( Flask , MySQL , Jinja templets )
+
 ---
 
 ## 🛠️ Tech Stack
